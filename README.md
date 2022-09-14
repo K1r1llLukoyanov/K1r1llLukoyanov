@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kirill Lukoaynov
+- 👋 Hi, I’m Kirill Lukoyanov
 - 👀 I’m interested in C++, Python, JS, mathematics, physics, algorithms and data structures
 - 🌱 I’m currently learning Algorithms for competitive programming from GeeksForGeeks and E-Maxx, Linux administation, English language.
 - 📚 I'm reading Bryant's and O'Hallaron's Computer system book, Cormen's Intruduction to Algorithms, Lengyel's Mathematics for 3D Game Programming.
